@@ -5,7 +5,7 @@ plugins {
 
 dependencies {
     api(project(":antlr"))
-    implementation("it.unimi.dsi:fastutil:8.5.8")
+    implementation("it.unimi.dsi:fastutil:8.5.14")
 }
 
 configurations {
