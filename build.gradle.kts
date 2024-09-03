@@ -1,7 +1,7 @@
 plugins {
     kotlin("jvm") version "2.0.20"
     java
-    id("org.jetbrains.dokka") version "1.5.0"
+    id("org.jetbrains.dokka") version "1.9.20"
 }
 
 repositories {
