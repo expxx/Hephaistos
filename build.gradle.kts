@@ -25,7 +25,7 @@ allprojects {
         implementation(kotlin("stdlib"))
 
         // Use the JUpiter test library.
-        testImplementation("org.junit.jupiter:junit-jupiter:5.11.0")
+        testImplementation("org.junit.jupiter:junit-jupiter:5.11.2")
     }
 
     tasks {
